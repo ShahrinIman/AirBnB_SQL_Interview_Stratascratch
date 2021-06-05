@@ -1,0 +1,4 @@
+This is  a note of the SQL Querries that i did just for reference.
+The code cannot run in Jupyter.
+
+Any queries, do contact me :D 
